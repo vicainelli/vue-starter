@@ -1,10 +1,10 @@
 import { shallowMount } from '@vue/test-utils'
-import Button from './'
+import GenericButton from './'
 
 const buttonText = 'Button Text'
 
-describe('Button.vue', () => {
-  const wrapper = shallowMount(Button, {
+describe('GenericButton.vue', () => {
+  const wrapper = shallowMount(GenericButton, {
     slots: {
       default: buttonText
     }
