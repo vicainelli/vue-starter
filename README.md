@@ -1,6 +1,6 @@
-# vue-started
+# Vue.js starter
 
-- Vue
+- Vue.js
 - Vue Router
 - Jest
 - Node Sass
